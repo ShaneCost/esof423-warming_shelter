@@ -3,8 +3,8 @@
 + [vue webpage](warming-shelter)
 + [rest API](warming-shelter-api)
 ## Documentation 
-+ User Documentation
-+ Developer Documentation
++ [User Documentation](documentation/user-documentation.md)
++ [Developer Documentation](documentation/developer-documentation.md)
 ## Development Resources 
 + [Miro Board](https://miro.com/app/board/uXjVNwgTvPg=/)
 + [Working Documentation](https://docs.google.com/document/d/1mHYhYd9OutI6fMArA5x8P96BLqI7eUwn0tWa3hMybOA/edit)
