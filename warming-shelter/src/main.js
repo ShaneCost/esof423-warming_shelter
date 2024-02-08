@@ -1,3 +1,5 @@
+// definition of the main entry point of the application
+
 import { createApp } from 'vue'
 import './style.css'
 import App from './App.vue'

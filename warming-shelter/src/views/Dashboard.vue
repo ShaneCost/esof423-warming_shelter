@@ -1,3 +1,4 @@
+<!-- homepage view -->
 <template>
     <h1>
         Dashboard
