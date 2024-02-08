@@ -1,5 +1,5 @@
 # <ins>ESOF 423</ins>: Warming Shelter Internal Dashboard
-+ feature(s): __placeholder_
+feature(s): __placeholder_
 + [vue webpage](warming-shelter)
 + [rest API](warming-shelter-api)
 ## Documentation 
