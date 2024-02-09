@@ -1,7 +1,7 @@
 # User Documentation Placeholder
 
 **Description**: <br>
-The HRDC warming center online dashboard allows for easy tracking of visitors to the warming center.
+This custom software solution is designed to enhance the operation of the HRDC’s year-round homeless warming center in Bozeman, Montana. It aims to assist front desk staff in managing incoming and outgoing guests efficiently. This software aims to minimize the learning curve and reduce the operation burden on front desk staff.
 <br><br>
 **How to obtain and install software**:<br>
 N/A the software is a web app.
