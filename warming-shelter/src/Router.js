@@ -1,3 +1,4 @@
+// defining the routes for the application
 import { createRouter, createWebHistory } from 'vue-router'
 import Dashboard from "./views/Dashboard.vue";
 

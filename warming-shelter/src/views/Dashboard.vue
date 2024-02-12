@@ -1,3 +1,4 @@
+<!-- homepage view -->
 <template>
     <h1>
         Dashboard
@@ -18,4 +19,6 @@
     <p>
         This custom software solution is designed to enhance the operation of the HRDC’s year-round homeless warming center in Bozeman, Montana. It aims to assist front desk staff in managing incoming and outgoing guests efficiently. This software aims to minimize the learning curve and reduce the operation burden on front desk staff.
     </p>
+
 </template>
+
